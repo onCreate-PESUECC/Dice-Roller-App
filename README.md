@@ -1,5 +1,5 @@
 # Dice-Roller-App
-A Dice Roller Application, built for Kotlin-Session-3
+A Dice Roller Application, built for Kotlin Demo Sessions.
 
 # Contributing to Dice Roller App
 Hello and welcome! We are so glad that you are interested in contributing to the Dice Roller Application!
